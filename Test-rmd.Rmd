@@ -1,0 +1,8 @@
+---
+title: "Visualizing the ocean floor"
+output: html_document
+params:
+  data: "hawaii"
+---
+
+`r params$data`
